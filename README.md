@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Moein Nikgohar
 - 👀 I’m interested in applications of AI/ML in quantitative finance
-- 🌱 I’m currently learning python/ML as part of my MSc in Applied Statistics and Financial Modelling
+- 🌱 I’m currently learning python/ML as part of my studies in Quantitative Finance
 - 💞️ I’m looking to collaborate on ML-based recommendation systems
 - 📫 How to reach me moein.nikgohar@yahoo.co.uk
 
